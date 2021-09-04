@@ -1,0 +1,7 @@
+C:\Users\EQUIPO\source\repos\39\41\obj\Debug\41.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\39\41\obj\Debug\41.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\39\41\bin\Debug\41.exe.config
+C:\Users\EQUIPO\source\repos\39\41\bin\Debug\41.exe
+C:\Users\EQUIPO\source\repos\39\41\bin\Debug\41.pdb
+C:\Users\EQUIPO\source\repos\39\41\obj\Debug\41.exe
+C:\Users\EQUIPO\source\repos\39\41\obj\Debug\41.pdb
